@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blckmaebell
 - 👀 I’m interested in ... cyber security
 - 🌱 I’m currently learning ... Python, Command Line, Azure
-- 💞️ I’m looking to collaborate on ... anthing that furthers my knowledge
+- 💞️ I’m looking to collaborate on ... anything that furthers my knowledge
 - 📫 How to reach me ... 
 
 <!---
